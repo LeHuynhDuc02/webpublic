@@ -1,0 +1,41 @@
+html{
+    background-color:rgb(240, 240, 240);
+}
+.img1{
+    height: 50px;
+    width: 50px;
+    border:20px solid rgb(238, 238, 177) ;
+    border-radius: 100px;
+    margin-top: 10%;
+    margin-left: 50%;
+}
+.b2one{
+    font-size: 200%;
+    margin-left: 46%;
+    margin-top: 2%;
+}
+.b2two{
+    color: maroon;
+    margin-left: 35%;
+    margin-top: 2%;
+}
+.b2three{
+    width: 20%;
+    border:5px solid white;
+    font-weight: 900;
+    background-color: mintcream;
+    color: rgb(91, 214, 214);
+    margin-left: 42%;
+    margin-top:2%;
+    padding: 1%;
+}
+.b2four{
+    width: 10%;
+    background-color: thistle;
+    color: white;
+    font-size: 80%;
+    margin-left: 46%;
+    margin-top: 1%;
+    padding:1%;
+    padding-left: 3%;
+}

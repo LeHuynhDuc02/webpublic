@@ -1,0 +1,29 @@
+.b3one{
+    font-size: 300%;
+    margin-left: 10%;
+}
+.b3two{
+    height: 300px;
+    width: 100%;
+    background-color: cadetblue;
+    border: 1px solid cadetblueS;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.b3three{
+    font-size: 200%;
+    margin-left: 25%;
+    margin-bottom: 2%;
+}
+.b3four{
+    color: rgb(166, 204, 206);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 2%;
+}
+.b3five{
+    width: 6%;
+    background-color: rgb(122, 122, 190);
+    color: whitesmoke;
+    padding: 1% 2% 1% 2%;
+}

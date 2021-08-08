@@ -1,0 +1,25 @@
+.b1one{
+    font-size: 150%;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+.mid1{
+    color: blue;
+}
+.b1two{
+    color: darkcyan;
+    margin-left: 25%;
+}
+a{  
+    border: 10px solid black ;
+    background-color: black;
+    color: white;
+    background-size: initial;
+    font-size: 70%;
+}
+.b1three{
+    margin-left: 43%;
+}
+.b1four{
+    margin-left: 2% ;
+}
