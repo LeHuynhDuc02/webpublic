@@ -1,2 +1,0 @@
-# webpublic
-web creation practice
